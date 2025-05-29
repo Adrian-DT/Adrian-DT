@@ -1,5 +1,5 @@
 <a href="https://github.com/Adrian-DT">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Adrian-DT&card_width=320&theme=gotham&hide=stars,prs,issues,contribs&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Adrian-DT&card_width=320&theme=gotham&hide=stars,issues&include_all_commits=true" />
 </a>
 <a href="https://github.com/Adrian-DT">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adrian-DT&layout=compact&langs_count=8&card_width=320&theme=gotham" />
