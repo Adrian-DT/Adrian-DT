@@ -1,8 +1,14 @@
-![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian-DT&theme=vue-dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-DT&layout=compact)
+<a href="https://github.com/Adrian-DT">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Adrian-DT" />
+</a>
+<a href="https://github.com/Adrian-DT">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adrian-DT&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--## Hi there 👋
 
+![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian-DT&theme=vue-dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-DT&layout=compact)
 
 **Adrian-DT/Adrian-DT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
