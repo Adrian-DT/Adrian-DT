@@ -1,4 +1,4 @@
-![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian-DT&theme=dark&show_icons=true?theme=VUE-DARK)
+![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrian-DT&theme=vue-dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-DT&layout=compact)
 
 <!--## Hi there 👋
